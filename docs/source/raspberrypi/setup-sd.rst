@@ -14,7 +14,7 @@ Usually, you would download a zipped image file directly from the `Raspberry Pi 
 
 However, for Gizmo we have added drivers for the touchscreen. `Here <https://www.waveshare.com/wiki/5inch_HDMI_LCD>`_ you can see what we did and find additional steps to modify the configuration of the touchscreen.
 
-Download our Gizmo disk image with touch screen drivers `here. <https://www.linktobeadded.com/>`_ 
+**Download our Gizmo disk image with touch screen drivers `here. <https://www.linktobeadded.com/>`_ **
 
 
 Flashing your Disk Image
