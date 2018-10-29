@@ -29,5 +29,5 @@ Flashing your Disk Image
    - On Mac: if you backed up the image with the method above you might have to change the file extension from ".cdr" to ".iso"
 5. You're done! If all has gone well the Raspberry Pi should boot up correctly with your new SD card.
 
-
-
+.. Tip::
+  Your Gizmo Raspian OS has been optimised for the 5 inch touchscreen - so will always show in low (800x480) resolution. If you move to a full size screen you should reverse the steps taken `Here <https://www.waveshare.com/wiki/5inch_HDMI_LCD>`_ or start from a fresh image to avoid potato resolution.
